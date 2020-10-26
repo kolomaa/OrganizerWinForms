@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\Organizer\Organizer\bin\Debug\Organizer.exe.config
+C:\Users\Asus\source\repos\Organizer\Organizer\bin\Debug\Organizer.exe
+C:\Users\Asus\source\repos\Organizer\Organizer\bin\Debug\Organizer.pdb
+C:\Users\Asus\source\repos\Organizer\Organizer\obj\Debug\Organizer.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Organizer\Organizer\obj\Debug\Organizer.MainForm.resources
+C:\Users\Asus\source\repos\Organizer\Organizer\obj\Debug\Organizer.Properties.Resources.resources
+C:\Users\Asus\source\repos\Organizer\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Organizer\Organizer\obj\Debug\Organizer.exe
+C:\Users\Asus\source\repos\Organizer\Organizer\obj\Debug\Organizer.pdb
